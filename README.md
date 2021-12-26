@@ -1,4 +1,4 @@
-- A MERN stack project
+- A fully responsive MERN stack project
 - Frontend - React.js
 - Backend - Node.js, Express.js
 - Database - MongoDB
