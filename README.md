@@ -22,4 +22,4 @@
 
    **Inside frontend/front**
    - npm start\
-   *This is open your browser with application running*
+   *This will open your browser with application running*
