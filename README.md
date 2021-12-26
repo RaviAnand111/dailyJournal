@@ -1,1 +1,4 @@
-- A react project with react js as frontend and express as backend. 
+- A MERN stack project
+- Frontend - React.js
+- Backend - Node.js, Express.js
+- Database - MongoDB
